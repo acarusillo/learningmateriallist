@@ -2,8 +2,8 @@
 This is my list of study materials, which I refer to daily as my study checklist. These subjects cover a wide range, including college credit courses, career development programs, and various educational resources. When the course is completed, it will be relocated to the bottom of the list along with the completion date.
 
 - [ ] IBM SkillsBuild >  [Web Development Fundamentals](https://skills.yourlearning.ibm.com/activity/PLAN-8749C02A78EC?channelId=CNL_LCB_1616447372894)  : 8/30/2023 28% completed
-- [ ] MS Azure AZ-900 exam prep
-- [ ] GED exam prep >  [GED.com](https://app.ged.com/login?language=ENU&locale=USA)   :8/30/2023 2/4 In progress
+- [ ] MS Azure AZ-900 exam prep >  (Due: Oct 2023)
+- [ ] GED exam prep >  [GED.com](https://app.ged.com/login?language=ENU&locale=USA)   :8/30/2023 2/4 In progress (Due: end of Sep 2023)
 - [ ] Meta >  [Front-End Developer](https://www.coursera.org/in-progress) :8/30/2023 1/9 In progress
 - [ ] Meta >  [Back-End Developer](https://www.coursera.org/in-progress)  :8/30/2023 1/9 In progress
 - [ ] AWS >   [AWS Cloud Solutions Architect](https://www.coursera.org/in-progress)  :8/30/2023 0/4 In progress
