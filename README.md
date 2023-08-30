@@ -5,6 +5,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] IBM SkillsBuild >  [Web Development Fundamentals](https://skills.yourlearning.ibm.com/activity/PLAN-8749C02A78EC?channelId=CNL_LCB_1616447372894)  : 8/30/2023 28% completed
 - [ ] Meta >  [Front-End Developer](https://www.coursera.org/in-progress) :8/30/2023 1/9 In progress
 - [ ] Meta >  [Back-End Developer](https://www.coursera.org/in-progress)  :8/30/2023 1/9 In progress
+- [ ] Forage > [Software Engineering Lite](https://www.theforage.com/dashboard)   :8/30/2023 0/2 In progress
 # Career Certification
 - [ ] MS Azure AZ-900 exam prep >  (Due: Oct 2023)
 - [ ] AWS >   [AWS Cloud Solutions Architect](https://www.coursera.org/in-progress)  :8/30/2023 0/4 In progress
