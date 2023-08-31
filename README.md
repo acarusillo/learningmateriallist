@@ -8,7 +8,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] Forage > [Software Engineering Lite](https://www.theforage.com/dashboard)   :8/30/2023 0/2 In progress
       
 ## Career Certification
-- [ ] MS Azure AZ-900 exam prep >  [IT Exam Prep](https://www.itexams.com/exam/AZ-900) 0/441 (Due: Oct 2023)
+- [ ] MS Azure AZ-900 exam prep >  [IT Exam Prep](https://www.itexams.com/exam/AZ-900) 8/31/2023 10/441 (Due: Oct 2023)
 - [ ] AWS >   [AWS Cloud Solutions Architect](https://www.coursera.org/in-progress)  :8/30/2023 0/4 In progress
 - [ ] Google >  [Google Data Analytics](https://www.coursera.org/in-progress)  :8/30/2023 0/8 In progress
 - [ ] Google >  [Google Project Management](https://www.coursera.org/in-progress)  :8/30/2023 0/6 In progress
