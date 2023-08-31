@@ -14,7 +14,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] Google >  [Google Project Management](https://www.coursera.org/in-progress)  :8/30/2023 0/6 In progress
       
 ## College Credits and GED
-- [ ] GED exam prep >  [GED.com](https://app.ged.com/login?language=ENU&locale=USA)   :8/31/2023 2/4 In progress (Due: end of Sep 2023) > 8/30 passed a Language-Arts pre-test. I'm ready to take the official exam.
+- [ ] GED exam prep >  [GED.com](https://app.ged.com/login?language=ENU&locale=USA)   :8/31/2023 2/4 In progress (Due: end of Sep 2023) > 8/31 Scheduled an official Language-Arts test on Sep 1.
 - [ ] CLEP >   [College Composition](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
 - [ ] CLEP >   [American Literature](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
 - [ ] CLEP >   [College Mathematics](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
