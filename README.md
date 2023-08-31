@@ -14,11 +14,11 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] Google >  [Google Project Management](https://www.coursera.org/in-progress)  :8/30/2023 0/6 In progress
       
 ## College Credits and GED
-- [ ] GED exam prep >  [GED.com](https://app.ged.com/login?language=ENU&locale=USA)   :8/30/2023 2/4 In progress (Due: end of Sep 2023)
+- [ ] GED exam prep >  [GED.com](https://app.ged.com/login?language=ENU&locale=USA)   :8/31/2023 2/4 In progress (Due: end of Sep 2023) > 8/30 passed a Language-Arts pre-test. I'm ready to take the official exam.
 - [ ] CLEP >   [College Composition](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
 - [ ] CLEP >   [American Literature](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
 - [ ] CLEP >   [College Mathematics](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
       
 ## Career Development
-- [ ] Accenture >  [My Training Plan (Careeer Development)](https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fccusa-lms.cclearning.accenture.com%2Flogin%2Findex.php) : :8/30/2023 0/6 In progress
+- [ ] Accenture >  [My Training Plan (Careeer Development)](https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fccusa-lms.cclearning.accenture.com%2Flogin%2Findex.php)  :8/30/2023 4/15 In progress > Thrive Mind - Introduction: completed
 
