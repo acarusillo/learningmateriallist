@@ -15,7 +15,7 @@ This is my list of study materials, which I refer to daily as my study checklist
       
 ## College Credits and GED
 - [ ] GED exam prep >  [GED.com](https://app.ged.com/login?language=ENU&locale=USA)   :9/1/2023 2/4 In progress (Due: end of Sep 2023) > Needs to re-take the exam.
-- [ ] GED practice > [GED Reading Practice](https://www.gedpracticequestions.com/ged-reading-practice-test/)  :9/2/2023 In progress.
+- [ ] GED Language Arts practice > [GED Reading Practice](https://www.gedpracticequestions.com/ged-reading-practice-test/)  :9/2/2023 1/6 In progress.
 - [ ] CLEP >   [College Composition](https://courses.modernstates.org/dashboard)   :9/2/2023 0/6 In progress
 - [ ] CLEP >   [American Literature](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
 - [ ] CLEP >   [College Mathematics](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
