@@ -22,5 +22,5 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] CLEP >   [College Mathematics](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
       
 ## Career Development
-- [ ] Accenture >  [My Training Plan (Careeer Development)](https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fccusa-lms.cclearning.accenture.com%2Flogin%2Findex.php)  :9/4/2023 7/15 In progress > Mobile - Business Communication Toolsr: completed
+- [ ] Accenture >  [My Training Plan (Careeer Development)](https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fccusa-lms.cclearning.accenture.com%2Flogin%2Findex.php)  :9/4/2023 8/15 In progress > Mobile - Managing Conflict in the Workplace: completed
 
