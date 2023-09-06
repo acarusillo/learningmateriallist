@@ -17,7 +17,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] GED exam prep >  [GED.com](https://app.ged.com/login?language=ENU&locale=USA)   :9/1/2023 2/4 In progress (Due: end of Sep 2023) > Needs to re-take the exam.
 - [ ] GED Language Arts practice > [GED Reading Practice](https://www.gedpracticequestions.com/ged-reading-practice-test/)  :9/3/2023 3/6 In progress.
 - [ ] [MyGED.com Study Plan> Language Arts](https://plus.aztecsoftware.com/) :9/5/2023 30 mins
-- [ ] Khan Academy > [College Algebra](https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:linear-equations-and-inequalities/xa5dd2923c88e7aa8:solving-equations-with-one-unknown/e/multistep_equations_with_distribution) :9/4/2023 Unit 1
+- [ ] Khan Academy > [College Algebra](https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:linear-equations-and-inequalities/xa5dd2923c88e7aa8:solving-equations-with-one-unknown/e/multistep_equations_with_distribution) :9/5/2023 Unit 1
 - [ ] CLEP >   [College Composition](https://courses.modernstates.org/dashboard)   :9/2/2023 0/6 In progress
 - [ ] CLEP >   [American Literature](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
 - [ ] CLEP >   [College Mathematics](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
