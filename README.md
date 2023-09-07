@@ -16,12 +16,12 @@ This is my list of study materials, which I refer to daily as my study checklist
 ## College Credits and GED
 - [ ] GED exam prep >  [GED.com](https://app.ged.com/login?language=ENU&locale=USA)   :9/1/2023 2/4 In progress (Due: end of Sep 2023) > Needs to re-take the exam.
 - [ ] GED Language Arts practice > [GED Reading Practice](https://www.gedpracticequestions.com/ged-reading-practice-test/)  :9/3/2023 3/6 In progress.
-- [ ] MyGED.com [Study Plan> Language Arts](https://plus.aztecsoftware.com/) :9/6/2023 30 mins
+- [ ] MyGED.com [Study Plan> Language Arts](https://plus.aztecsoftware.com/) :9/6/2023 40 mins
 - [ ] Khan Academy > [College Algebra](https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:linear-equations-and-inequalities/xa5dd2923c88e7aa8:solving-equations-with-one-unknown/e/multistep_equations_with_distribution) :9/6/2023 Unit 1
 - [ ] CLEP >   [College Composition](https://courses.modernstates.org/dashboard)   :9/2/2023 0/6 In progress
 - [ ] CLEP >   [American Literature](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
 - [ ] CLEP >   [College Mathematics](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
       
 ## Career Development
-- [ ] Accenture >  [My Training Plan (Careeer Development)](https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fccusa-lms.cclearning.accenture.com%2Flogin%2Findex.php)  :9/6/2023 9/15 In progress > Mobile - Verbal Communication: completed
+- [ ] Accenture >  [My Training Plan (Careeer Development)](https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fccusa-lms.cclearning.accenture.com%2Flogin%2Findex.php)  :9/7/2023 10/15 In progress > Mobile - Verbal Communication: completed
 
