@@ -14,7 +14,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] Google >  [Google Project Management](https://www.coursera.org/in-progress)  :8/30/2023 0/6 In progress
       
 ## College Credits and GED
-- [ ] GED exam prep >  [GED.com](https://app.ged.com/login?language=ENU&locale=USA)   :9/1/2023 2/4 In progress (Due: end of Sep 2023) > Needs to re-take the exam.
+- [ ] GED exam >  [GED.com](https://app.ged.com/login?language=ENU&locale=USA)   :9/1/2023 2/4 In progress (Due: end of Sep 2023) > Needs to re-take the exam. Tentative schedule for the next exam is early next week (9/11 - )
 - [ ] GED Language Arts practice > [GED Reading Practice](https://www.gedpracticequestions.com/ged-reading-practice-test/)  :9/3/2023 3/6 In progress.
 - [ ] MyGED.com [Study Plan> Language Arts](https://plus.aztecsoftware.com/) :9/8/2023 60 mins
 - [ ] Khan Academy > [College Algebra](https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:linear-equations-and-inequalities/xa5dd2923c88e7aa8:solving-equations-with-one-unknown/e/multistep_equations_with_distribution) :9/6/2023 Unit 1
