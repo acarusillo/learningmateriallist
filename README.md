@@ -9,6 +9,7 @@ This is my list of study materials, which I refer to daily as my study checklist
       
 ## Career Certification
 - [ ] MS Azure AZ-900 exam prep >  [IT Exam Prep](https://www.itexams.com/exam/AZ-900) 9/11/2023 64/441 (Due: late Sep/early Oct 2023)
+- [ ] MS AI-900 exam prep (Coursera) > [Coursera](
 - [ ] AWS >   [AWS Cloud Solutions Architect](https://www.coursera.org/in-progress)  :8/30/2023 0/4 In progress
 - [ ] Google >  [Google Data Analytics](https://www.coursera.org/in-progress)  :8/30/2023 0/8 In progress
 - [ ] Google >  [Google Project Management](https://www.coursera.org/in-progress)  :8/30/2023 0/6 In progress
