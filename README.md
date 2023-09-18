@@ -23,7 +23,8 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] CLEP >   [College Composition](https://courses.modernstates.org/dashboard)   :9/2/2023 0/6 In progress
 - [ ] CLEP >   [American Literature](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
 - [ ] CLEP >   [College Mathematics](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
-      
+
+##Complete      
 ## Career Development
-- [ ] Accenture >  [My Training Plan (Career Development)](https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fccusa-lms.cclearning.accenture.com%2Flogin%2Findex.php)  :9/12/2023 13/15 In progress > Mobile - Financial Literacy Part 2: Budgeting and Financial Goals: completed
+- [ ] Accenture >  [My Training Plan (Career Development)](https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fccusa-lms.cclearning.accenture.com%2Flogin%2Findex.php)  :9/18/2023 15/15 All modules are completed
 
