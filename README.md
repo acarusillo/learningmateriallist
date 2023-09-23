@@ -15,10 +15,8 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] Google >  [Google Project Management](https://www.coursera.org/in-progress)  :8/30/2023 0/6 In progress
       
 ## College Credits and GED
-- [ ] GED exam >  [GED.com](https://app.ged.com/login?language=ENU&locale=USA)   :9/15/2023 2/4 In progress (Due: end of Sep 2023) > passed the second pre-test.
-- [ ] GED Language Arts practice > [GED Reading Practice](https://www.gedpracticequestions.com/ged-reading-practice-test/)  :9/3/2023 3/6 In progress.
-- [ ] MyGED.com [Study Plan> Language Arts](https://plus.aztecsoftware.com/) :9/19/2023 30 mins
-- [ ] HelloUSA [GED Math] 9/9/2023 
+- [ ] GED exam >  [GED.com](https://app.ged.com/login?language=ENU&locale=USA)   :9/20/2023 3/4 In progress (Due: end of Sep 2023) > passed the official English exam. The last exam will be taken on 9/26/2023
+- [ ] HelloUSA [GED Math] 9/23/2023 10/20 completed 
 - [ ] Khan Academy > [College Algebra](https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:linear-equations-and-inequalities/xa5dd2923c88e7aa8:solving-equations-with-one-unknown/e/multistep_equations_with_distribution) :9/12/2023 Unit 1&2
 - [ ] CLEP >   [College Composition](https://courses.modernstates.org/dashboard)   :9/2/2023 0/6 In progress
 - [ ] CLEP >   [American Literature](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
@@ -27,4 +25,6 @@ This is my list of study materials, which I refer to daily as my study checklist
 ##Complete      
 ## Career Development
 - [ ] Accenture >  [My Training Plan (Career Development)](https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fccusa-lms.cclearning.accenture.com%2Flogin%2Findex.php)  :9/18/2023 15/15 All modules are completed
+- [ ] MyGED.com [Study Plan> Language Arts](https://plus.aztecsoftware.com/) :9/20 passed the official exam
+- [ ] GED Language Arts practice > [GED Reading Practice](https://www.gedpracticequestions.com/ged-reading-practice-test/)  :9/20/2023 passed the official exam 
 
