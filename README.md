@@ -23,8 +23,8 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] CLEP >   [American Literature](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
 - [ ] CLEP >   [College Mathematics](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
 
-##Completed      
-## Career Development
+     
+## Completed
 - [ ] Accenture >  [My Training Plan (Career Development)](https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fccusa-lms.cclearning.accenture.com%2Flogin%2Findex.php)  :9/18/2023 15/15 All modules are completed
 - [ ] MyGED.com [Study Plan> Language Arts](https://plus.aztecsoftware.com/) :9/20 passed the official exam
 - [ ] GED Language Arts practice > [GED Reading Practice](https://www.gedpracticequestions.com/ged-reading-practice-test/)  :9/20/2023 passed the official exam
