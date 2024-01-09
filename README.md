@@ -14,7 +14,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] AWS >   [AWS Cloud Solutions Architect](https://www.coursera.org/in-progress)  :8/30/2023 0/4 In progress
 - [ ] Google >  [Google Data Analytics](https://www.coursera.org/in-progress)  :8/30/2023 0/8 In progress
 - [ ] Google >  [Google Project Management](https://www.coursera.org/in-progress)  :8/30/2023 0/6 In progress
-- [ ] Agile Software Developer - Bertelsmann(Udacity): 44% completed 1/7/2024
+- [ ] Agile Software Developer - Bertelsmann(Udacity): 51% completed 1/9/2024
       
 ## College Credits and GED
 
