@@ -3,8 +3,6 @@ This is my list of study materials, which I refer to daily as my study checklist
 
 ## Web and Software Development
 - [ ] IBM SkillsBuild >  [Web Development Fundamentals](https://skills.yourlearning.ibm.com/activity/PLAN-8749C02A78EC?channelId=CNL_LCB_1616447372894)  : 8/30/2023 28% completed
-- [ ] Meta >  [Front-End Developer](https://www.coursera.org/in-progress) :8/30/2023 1/9 In progress
-- [ ] Meta >  [Back-End Developer](https://www.coursera.org/in-progress)  :8/30/2023 1/9 In progress
 - [ ] Forage > [Software Engineering Lite](https://www.theforage.com/dashboard)   :9/2/2023 0/2 In progress. Changed the whiteboard format.
       
 ## Career Certification
@@ -12,9 +10,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] MS AI-900 exam prep (Coursera) > [Coursera] 12/28/2023 Full practice exam 1:64.51%
 - [ ] MS AZ-900 Official Practice Test > [Practice](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/practice/results?assessmentId=23&snapshotId=21bd8b0b-071e-42f8-bc79-d7c909b7f9dd) 86% -> 91%
 - [ ] AWS >   [AWS Cloud Solutions Architect](https://www.coursera.org/in-progress)  :8/30/2023 0/4 In progress
-- [ ] Google >  [Google Data Analytics](https://www.coursera.org/in-progress)  :8/30/2023 0/8 In progress
-- [ ] Google >  [Google Project Management](https://www.coursera.org/in-progress)  :8/30/2023 0/6 In progress
-- [ ] Agile Software Developer - Bertelsmann(Udacity): 59% completed 1/13/2024
+- [ ] Agile Software Developer - Bertelsmann(Udacity): 64% completed 1/17/2024
       
 ## College Credits and GED
 
@@ -31,3 +27,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] GED exam >  [GED.com](https://app.ged.com/login?language=ENU&locale=USA)   :9/26/2023 Passed the official GED exam.
 - [ ] HelloUSA [GED Math] 9/23/2023 10/20 completed > GED diploma earned.
 - [ ] AZ-900 > [Chegg Flashcards](https://www.chegg.com/flashcards/practice-assessment-for-exam-az-900-microsoft-azu-b98c48d8-0757-4658-b0b3-8a3987ff7f7c/deck) Chegg retired their flashcard feature.
+- [ ] Meta >  [Front-End Developer](https://www.coursera.org/in-progress) :1/17/2024 course discontinued
+- [ ] Meta >  [Back-End Developer](https://www.coursera.org/in-progress)  :1/17/2024 course discontinued
+- [ ] Google >  [Google Data Analytics](https://www.coursera.org/in-progress)  :1/17/2024 course discontinued
+- [ ] Google >  [Google Project Management](https://www.coursera.org/in-progress) :1/17/2024 course discontinued
