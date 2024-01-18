@@ -4,6 +4,14 @@ This is my list of study materials, which I refer to daily as my study checklist
 ## Web and Software Development
 - [ ] IBM SkillsBuild >  [Web Development Fundamentals](https://skills.yourlearning.ibm.com/activity/PLAN-8749C02A78EC?channelId=CNL_LCB_1616447372894)  : 8/30/2023 28% completed
 - [ ] Forage > [Software Engineering Lite](https://www.theforage.com/dashboard)   :9/2/2023 0/2 In progress. Changed the whiteboard format.
+
+## College Application - [The Break Through Tech AI Program Due: 3/18 or earlier](https://ecornell.cornell.edu/portal/break-through-tech-ai-application/)
+- [ ] The Break Through Tech AI Program prep > [Requirements: Python](https://ecornell.cornell.edu/portal/break-through-tech-ai-information/)
+- [ ] The Break Through Tech AI Program prep > [Requirements: Intro Programming](https://ecornell.cornell.edu/portal/break-through-tech-ai-information/)
+- [ ] The Break Through Tech AI Program prep > [Requirements: Intro Calculus](https://ecornell.cornell.edu/portal/break-through-tech-ai-information/)
+- [ ] The Break Through Tech AI Program prep > [Requirements: Linear Algebra](https://ecornell.cornell.edu/portal/break-through-tech-ai-information/)
+- [ ] The Break Through Tech AI Program prep > [Requirements: Intro Statistics](https://ecornell.cornell.edu/portal/break-through-tech-ai-information/)
+- [ ] The Break Through Tech AI Program prep > [Requirements: Intro to AI](https://ecornell.cornell.edu/portal/break-through-tech-ai-information/)
       
 ## Career Certification
 - [ ] MS Azure AZ-900 exam prep >  [IT Exam Prep](https://www.itexams.com/exam/AZ-900) 9/11/2023 64/441 (Due: late Sep/early Oct 2023)
@@ -12,7 +20,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] AWS >   [AWS Cloud Solutions Architect](https://www.coursera.org/in-progress)  :8/30/2023 0/4 In progress
 - [ ] Agile Software Developer - Bertelsmann(Udacity): 64% completed 1/17/2024
       
-## College Credits and GED
+## College Credits
 
 - [ ] Khan Academy > [College Algebra](https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:linear-equations-and-inequalities/xa5dd2923c88e7aa8:solving-equations-with-one-unknown/e/multistep_equations_with_distribution) :9/12/2023 Unit 1&2
 - [ ] CLEP >   [College Composition](https://courses.modernstates.org/dashboard)   :9/2/2023 0/6 In progress
