@@ -5,7 +5,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] IBM SkillsBuild >  [Web Development Fundamentals](https://skills.yourlearning.ibm.com/activity/PLAN-8749C02A78EC?channelId=CNL_LCB_1616447372894)  : 8/30/2023 28% completed
 - [ ] Forage > [Software Engineering Lite](https://www.theforage.com/dashboard)   :9/2/2023 0/2 In progress. Changed the whiteboard format.
 
-## College Application - [The Break Through Tech AI Program Due: 3/18 or earlier](https://ecornell.cornell.edu/portal/break-through-tech-ai-application/)
+## College Program Application - [The Break Through Tech AI Program Due: 3/18 or earlier](https://ecornell.cornell.edu/portal/break-through-tech-ai-application/)
 - [ ] The Break Through Tech AI Program prep > [Requirements: Python](https://ecornell.cornell.edu/portal/break-through-tech-ai-information/)
 - [ ] The Break Through Tech AI Program prep > [Requirements: Intro Programming](https://ecornell.cornell.edu/portal/break-through-tech-ai-information/)
 - [ ] The Break Through Tech AI Program prep > [Requirements: Intro Calculus](https://ecornell.cornell.edu/portal/break-through-tech-ai-information/)
@@ -21,13 +21,15 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] Agile Software Developer - Bertelsmann(Udacity): 64% completed 1/17/2024
       
 ## College Credits
-
 - [ ] Khan Academy > [College Algebra](https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:linear-equations-and-inequalities/xa5dd2923c88e7aa8:solving-equations-with-one-unknown/e/multistep_equations_with_distribution) :9/12/2023 Unit 1&2
 - [ ] CLEP >   [College Composition](https://courses.modernstates.org/dashboard)   :9/2/2023 0/6 In progress
 - [ ] CLEP >   [American Literature](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
 - [ ] CLEP >   [College Mathematics](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
 
-     
+## College Coursework
+- [ ] HIS-217 (Jan-Mar 2024)> Week 3
+- [ ] ENG-190 (Jan-Mar 2024)> Week 3
+
 ## Completed
 - [ ] Accenture >  [My Training Plan (Career Development)](https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fccusa-lms.cclearning.accenture.com%2Flogin%2Findex.php)  :9/18/2023 15/15 All modules are completed
 - [ ] MyGED.com [Study Plan> Language Arts](https://plus.aztecsoftware.com/) :9/20 passed the official exam
