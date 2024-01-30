@@ -20,7 +20,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] Agile Software Developer - Bertelsmann(Udacity): 79% completed 1/30/2024
       
 ## College Credits
-- [ ] Khan Academy > [College Algebra](https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:linear-equations-and-inequalities/xa5dd2923c88e7aa8:solving-equations-with-one-unknown/e/multistep_equations_with_distribution) :9/12/2023 Unit 1&2
+
 - [ ] CLEP >   [College Composition](https://courses.modernstates.org/dashboard)   :9/2/2023 0/6 In progress
 - [ ] CLEP >   [American Literature](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
 - [ ] CLEP >   [College Mathematics](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
@@ -41,3 +41,4 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] Google >  [Google Data Analytics](https://www.coursera.org/in-progress)  :1/17/2024 course discontinued
 - [ ] Google >  [Google Project Management](https://www.coursera.org/in-progress) :1/17/2024 course discontinued
 - [ ] AWS >   [AWS Cloud Solutions Architect](https://www.coursera.org/in-progress)  :1/17/2024 course discontinued
+- [ ] Khan Academy > [College Algebra](https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:linear-equations-and-inequalities/xa5dd2923c88e7aa8:solving-equations-with-one-unknown/e/multistep_equations_with_distribution) :1/30/2024 Equivalent course has been completed already.
