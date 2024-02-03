@@ -28,7 +28,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 
 ## College Coursework
 - [ ] HIS-217 (Jan-Mar 2024)> Week 4 > Discussion post & 2 responses: completed
-- [ ] ENG-190 (Jan-Mar 2024)> Week 4 > Discussion post & Assignment
+- [ ] ENG-190 (Jan-Mar 2024)> Week 4 > 2 responses: completed. Purchased a textbook, waiting for the access code in order to complete this week's assignment.
 
 ## Completed
 - [ ] Accenture >  [My Training Plan (Career Development)](https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fccusa-lms.cclearning.accenture.com%2Flogin%2Findex.php)  :9/18/2023 15/15 All modules are completed
