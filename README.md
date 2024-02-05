@@ -27,7 +27,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] CLEP >   [Precalculus](https://courses.modernstates.org/courses/course-v1:ModernStatesX+Precalculus+2017/course/) :2/1/2024 1.Algebra
 
 ## College Coursework
-- [ ] HIS-217 (Jan-Mar 2024)> Week 4 > Week 4 assignment: In progress
+- [ ] HIS-217 (Jan-Mar 2024)> Week 4 > Week 4 assignment: submitted
 - [ ] ENG-190 (Jan-Mar 2024)> Week 4 > Week 4 assignment through the textbook completed.
 
 ## Completed
