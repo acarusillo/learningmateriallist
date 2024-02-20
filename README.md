@@ -27,8 +27,8 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] CLEP >   [Precalculus](https://courses.modernstates.org/courses/course-v1:ModernStatesX+Precalculus+2017/course/) :2/1/2024 1.Algebra
 
 ## College Coursework
-- [ ] HIS-217 (Jan-Mar 2024)> Week 6 > Week 6 assignment: in progress
-- [ ] ENG-190 (Jan-Mar 2024)> Week 6 > Week 6 assignment: in progress
+- [ ] HIS-217 (Jan-Mar 2024)> Week 7 > Week 7 assignment: in progress
+- [ ] ENG-190 (Jan-Mar 2024)> Week 7 > Week 7 assignment: in progress
 
 ## Completed
 - [ ] Accenture >  [My Training Plan (Career Development)](https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fccusa-lms.cclearning.accenture.com%2Flogin%2Findex.php)  :9/18/2023 15/15 All modules are completed
