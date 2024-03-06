@@ -17,7 +17,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] MS Azure AZ-900 exam prep >  [IT Exam Prep](https://www.itexams.com/exam/AZ-900) 9/11/2023 64/441 (Due: late Sep/early Oct 2023)
 - [ ] MS AI-900 exam prep (Coursera) > [Coursera] 12/28/2023 Full practice exam 1:64.51%
 - [ ] MS AZ-900 Official Practice Test > [Practice](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/practice/results?assessmentId=23&snapshotId=21bd8b0b-071e-42f8-bc79-d7c909b7f9dd) 86% -> 91%
-- [ ] Agile Software Developer - Bertelsmann(Udacity): 100% completed 2/7/2024 Final assessment 2/22/2024
+- [ ] Agile Software Developer - Bertelsmann(Udacity): approved for the next Nanodegree phase (starting 3/8)
       
 ## College Credits
 
