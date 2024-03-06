@@ -16,7 +16,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 ## Career Certification
 - [ ] MS Azure AZ-900 exam prep >  [IT Exam Prep](https://www.itexams.com/exam/AZ-900) 9/11/2023 64/441 (Due: late Sep/early Oct 2023)
 - [ ] MS AI-900 exam prep (Coursera) > [Coursera] 12/28/2023 Full practice exam 1:64.51%
-- [ ] MS AZ-900 Official Practice Test > [Practice](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/practice/results?assessmentId=23&snapshotId=21bd8b0b-071e-42f8-bc79-d7c909b7f9dd) 86% -> 91%
+
 - [ ] Agile Software Developer - Bertelsmann(Udacity): approved for the next Nanodegree phase (starting 3/8)
       
 ## College Credits
@@ -27,8 +27,8 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] CLEP >   [Precalculus](https://courses.modernstates.org/courses/course-v1:ModernStatesX+Precalculus+2017/course/) :2/1/2024 1.Algebra
 
 ## College Coursework
-- [ ] HIS-217 (Jan-Mar 2024)> Week 7 > Week 7 assignment: in progress
-- [ ] ENG-190 (Jan-Mar 2024)> Week 7 > Week 7 assignment: in progress
+- [ ] HIS-217 (Jan-Mar 2024)> Week 8 > Week 8 assignment: completed
+- [ ] ENG-190 (Jan-Mar 2024)> Week 8 > Week 8 assignment: completed
 
 ## Completed
 - [ ] Accenture >  [My Training Plan (Career Development)](https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fccusa-lms.cclearning.accenture.com%2Flogin%2Findex.php)  :9/18/2023 15/15 All modules are completed
@@ -43,3 +43,4 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] Google >  [Google Project Management](https://www.coursera.org/in-progress) :1/17/2024 course discontinued
 - [ ] AWS >   [AWS Cloud Solutions Architect](https://www.coursera.org/in-progress)  :1/17/2024 course discontinued
 - [ ] Khan Academy > [College Algebra](https://www.khanacademy.org/math/college-algebra/xa5dd2923c88e7aa8:linear-equations-and-inequalities/xa5dd2923c88e7aa8:solving-equations-with-one-unknown/e/multistep_equations_with_distribution) :1/30/2024 Equivalent course has been completed already.
+- [ ] - [ ] MS AZ-900 Official Practice Test > [Practice](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/practice/results?assessmentId=23&snapshotId=21bd8b0b-071e-42f8-bc79-d7c909b7f9dd) 
