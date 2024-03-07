@@ -16,7 +16,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 ## Career Certification
 - [ ] MS AI-900 exam prep (Coursera) > [Coursera] 12/28/2023 Full practice exam 1:64.51%
 - [ ] MS 365 exam prep (Coursera) > 1 3/6
-- [ ] Agile Software Developer - Bertelsmann(Udacity): The Nanodegree phase has started (program ends 7/15) 
+- [ ] Agile Software Developer - [Bertelsmann(Udacity)](https://learn.udacity.com/nanodegrees/nd144-bmann-nextgen-full/parts/cd0043/lessons/0caa924a-ae96-42a4-9c87-bbdf71a547da/concepts/4389bf68-b350-49b2-9ce5-427f3fc3311f): The Nanodegree phase has started (program ends 7/15) 
       
 ## College Credits
 
