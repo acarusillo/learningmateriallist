@@ -15,7 +15,7 @@ This is my list of study materials, which I refer to daily as my study checklist
       
 ## Career Certification
 - [ ] MS AI-900 exam prep (Coursera) > [Coursera] 12/28/2023 Full practice exam 1:64.51%
-- [ ] MS 365 exam prep (Coursera) > 1 3/6
+- [ ] MS 365 exam prep (Coursera) > 23%: Week 1/7
 - [ ] Agile Software Developer - [Bertelsmann(Udacity)](https://learn.udacity.com/nanodegrees/nd144-bmann-nextgen-full/parts/cd0043/lessons/0caa924a-ae96-42a4-9c87-bbdf71a547da/concepts/4389bf68-b350-49b2-9ce5-427f3fc3311f): The Nanodegree phase has started (program ends 7/15) 
       
 ## College Credits
@@ -26,8 +26,8 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] CLEP >   [Precalculus](https://courses.modernstates.org/courses/course-v1:ModernStatesX+Precalculus+2017/course/) :2/1/2024 1.Algebra
 
 ## College Coursework
-- [ ] IT-140 (Mar-Apr 2024)> Week 1 > discussion + 2 responses
-- [ ] DAD-330 (Mar-Apr 2024)> Week 1 > discussion + 2 responses
+- [ ] IT-140 (Mar-Apr 2024)> Week 2 > zyBooks
+- [ ] DAD-330 (Mar-Apr 2024)> Week 2 > Lab
 
 ## Completed
 - [ ] Accenture >  [My Training Plan (Career Development)](https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fccusa-lms.cclearning.accenture.com%2Flogin%2Findex.php)  :9/18/2023 15/15 All modules are completed
