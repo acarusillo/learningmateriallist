@@ -4,29 +4,19 @@ This is my list of study materials, which I refer to daily as my study checklist
 ## Web and Software Development
 - [ ] IBM SkillsBuild >  [Web Development Fundamentals](https://skills.yourlearning.ibm.com/activity/PLAN-8749C02A78EC?channelId=CNL_LCB_1616447372894)  : 8/30/2023 28% completed
 - [ ] Forage > [Software Engineering Lite](https://www.theforage.com/dashboard)   :9/2/2023 0/2 In progress. Changed the whiteboard format.
-
-## College Program Application - [The Break Through Tech AI Program Due: 3/18 or earlier](https://ecornell.cornell.edu/portal/break-through-tech-ai-application/)
-- [ ] The Break Through Tech AI Program prep > [Requirements: Python](https://ecornell.cornell.edu/portal/break-through-tech-ai-information/) > Google Python
-- [ ] The Break Through Tech AI Program prep > [Requirements: Intro Programming](https://ecornell.cornell.edu/portal/break-through-tech-ai-information/)
-- [ ] The Break Through Tech AI Program prep > [Requirements: Intro Calculus](https://ecornell.cornell.edu/portal/break-through-tech-ai-information/)
-- [ ] The Break Through Tech AI Program prep > [Requirements: Linear Algebra](https://ecornell.cornell.edu/portal/break-through-tech-ai-information/)
-- [ ] The Break Through Tech AI Program prep > [Requirements: Intro Statistics](https://ecornell.cornell.edu/portal/break-through-tech-ai-information/)
-- [ ] The Break Through Tech AI Program prep > [Requirements: Intro to AI](https://ecornell.cornell.edu/portal/break-through-tech-ai-information/)
       
 ## Career Certification
-- [ ] MS AI-900 exam prep (Coursera) > [Coursera] 12/28/2023 Full practice exam 1:64.51%
 - [ ] Agile Software Developer - [Bertelsmann(Udacity)](https://learn.udacity.com/nanodegrees/nd144-bmann-nextgen-full/parts/cd0043/lessons/0caa924a-ae96-42a4-9c87-bbdf71a547da/concepts/4389bf68-b350-49b2-9ce5-427f3fc3311f): The Nanodegree phase has started (program ends 7/15) 
       
 ## College Credits
 
-- [ ] CLEP >   [College Composition](https://courses.modernstates.org/dashboard)   :9/2/2023 0/6 In progress
-- [ ] CLEP >   [American Literature](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
-- [ ] CLEP >   [College Mathematics](https://courses.modernstates.org/dashboard)   :8/30/2023 0/6 In progress
 - [ ] CLEP >   [Precalculus](https://courses.modernstates.org/courses/course-v1:ModernStatesX+Precalculus+2017/course/) :2/1/2024 1.Algebra
+- [ ] MS AI-900 exam prep (Coursera) > [Coursera] Full practice exam, ready to schedule the exam soon.
+- [ ] CLEP >   [Macroeconomics](https://courses.modernstates.org/courses/course-v1:ModernStatesX+Precalculus+2017/course/) : enroll after Precalculus
 
 ## College Coursework
-- [ ] IT-140 (Mar-Apr 2024)> Week 2 > zyBooks
-- [ ] DAD-330 (Mar-Apr 2024)> Week 2 > Lab
+- [ ] IT-140 (Mar-Apr 2024)> Week 6 > zyBooks
+- [ ] DAD-330 (Mar-Apr 2024)> Week 6 > Lab
 
 ## Completed
 - [ ] Accenture >  [My Training Plan (Career Development)](https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fccusa-lms.cclearning.accenture.com%2Flogin%2Findex.php)  :9/18/2023 15/15 All modules are completed
