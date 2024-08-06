@@ -6,19 +6,19 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] Forage > [Software Engineering Lite](https://www.theforage.com/dashboard)   :9/2/2023 0/2 In progress. Changed the whiteboard format.
       
 ## Career Certification
-- [ ] Agile Software Developer - [Bertelsmann(Udacity)](https://learn.udacity.com/nanodegrees/nd144-bmann-nextgen-full/parts/cd0043/lessons/0caa924a-ae96-42a4-9c87-bbdf71a547da/concepts/4389bf68-b350-49b2-9ce5-427f3fc3311f): The Nanodegree phase has started (program ends 7/15) 
+- [ ] Agile Software Developer - [Bertelsmann(Udacity)](https://learn.udacity.com/nanodegrees/nd144-bmann-nextgen-full/parts/cd0043/lessons/0caa924a-ae96-42a4-9c87-bbdf71a547da/concepts/4389bf68-b350-49b2-9ce5-427f3fc3311f): The Nanodegree phase will be ending soon, finishing up the course materials (program ends 8/15) 
       
 ## College Credits
 
 - [ ] CLEP >   [Precalculus](https://courses.modernstates.org/courses/course-v1:ModernStatesX+Precalculus+2017/course/) :2/1/2024 1.Algebra
-- [ ] MS AI-900 exam prep (Coursera) > [Coursera] Full practice exam, ready to schedule the exam soon.
 - [ ] CLEP >   [Macroeconomics](https://courses.modernstates.org/courses/course-v1:ModernStatesX+Precalculus+2017/course/) : enroll after Precalculus
 
 ## College Coursework
-- [ ] IT-140 (Mar-Apr 2024)> Week 6 > zyBooks
-- [ ] DAD-330 (Mar-Apr 2024)> Week 6 > Lab
+- [ ] CS-250 (Jul-Aug 2024)> Week 6 > Project 1
+- [ ] CS-320 (Jul-Aug 2024)> Week 6 > Milestone, Journal, Project 1
 
 ## Completed
+- [ ] MS AI-900 exam prep (Coursera) > [Coursera] Passed the AI-900 exam.
 - [ ] Accenture >  [My Training Plan (Career Development)](https://cas.cclearning.accenture.com/cas/login?service=https%3A%2F%2Fccusa-lms.cclearning.accenture.com%2Flogin%2Findex.php)  :9/18/2023 15/15 All modules are completed
 - [ ] MyGED.com [Study Plan> Language Arts](https://plus.aztecsoftware.com/) :9/20 passed the official exam
 - [ ] GED Language Arts practice > [GED Reading Practice](https://www.gedpracticequestions.com/ged-reading-practice-test/)  :9/20/2023 passed the official exam
