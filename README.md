@@ -17,7 +17,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 
 
 ## College Coursework
-- [ ] CS-250 (Jul-Aug 2024)> Week 6 > Project 1
+- [ ] CS-250 (Jul-Aug 2024)> Week 7 > Final Project > 1/2
 
 ## Completed
 - [ ] MS AI-900 exam prep (Coursera) > [Coursera] Passed the AI-900 exam.
