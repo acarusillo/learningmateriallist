@@ -12,7 +12,8 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] CLEP >   [Microeconomics](https://learn.modernstates.org/d2l/le/content/6700/viewContent/8211/View) : 8/15/2024
 - [ ] CLEP >   [Precalculus](https://courses.modernstates.org/courses/course-v1:ModernStatesX+Precalculus+2017/course/) :2/1/2024 1.Algebra
 - [ ] CLEP >   [Macroeconomics](https://courses.modernstates.org/courses/course-v1:ModernStatesX+Precalculus+2017/course/) : enroll after Precalculus
-- [ ] AP > [Computer Science A (Java)](https://learning.edx.org/course/course-v1:PurdueX+CS180.1x+3T2019a/block-v1:PurdueX+CS180.1x+3T2019a+type@sequential+block@1f0359724882424797660a08da095f75/block-v1:PurdueX+CS180.1x+3T2019a+type@vertical+block@884bebfe9904431da596f2778f3cbb22) : started 8/15/2024. Expected to complete in 6 weeks.
+- [ ] AP > [Computer Science A (Java)](https://learning.edx.org/course/course-v1:PurdueX+CS180.1x+3T2019a/block-v1:PurdueX+CS180.1x+3T2019a+type@sequential+block@1f0359724882424797660a08da095f75/block-v1:PurdueX+CS180.1x+3T2019a+type@vertical+block@884bebfe9904431da596f2778f3cbb22) : started 8/15/2024. Expected to be completed in 6 weeks.
+- [ ] AP > [AP®︎/College Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles): 8/15/2024
 
 
 ## College Coursework
