@@ -7,7 +7,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] Verizon Skillforward > [Java Programming: Basic Skills(https://learning.edx.org/course/course-v1:Codio+java1.1+1T2024/block-v1:Codio+java1.1+1T2024+type@sequential+block@d7837e10fa4141f685583ca40d90509b/block-v1:Codio+java1.1+1T2024+type@vertical+block@9102ef25259540ad8e2445a68049705a)]: 8/21/2024
       
 ## Career Certification
-- [ ] UCertify> CompTIA Linux + ()
+- [ ] UCertify> [CompTIA Linux + ](https://cwct.ucertify.com/app/?func=get_course_list&show=courses)
       
 ## College Credits
 - [ ] CLEP >   [Microeconomics](https://learn.modernstates.org/d2l/le/content/6700/viewContent/8211/View) : 8/15/2024
