@@ -23,7 +23,8 @@ This is my list of study materials, which I refer to daily as my study checklist
 
 
 ## College Coursework
-
+- [ ] CS-255 System Analysis and Design: created a backlog and plan
+- [ ] CS-305 Software Security: created a backlog and plan
 
 ## Completed
 - [ ] MS AI-900 exam prep (Coursera) > [Coursera] Passed the AI-900 exam.
