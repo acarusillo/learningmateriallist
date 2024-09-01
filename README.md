@@ -7,7 +7,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 
 ## Web and Software Development
 - [ ] Verizon Skillforward > [Java Programming: Basic Skills](https://learning.edx.org/course/course-v1:Codio+java1.1+1T2024/block-v1:Codio+java1.1+1T2024+type@sequential+block@d7837e10fa4141f685583ca40d90509b/block-v1:Codio+java1.1+1T2024+type@vertical+block@9102ef25259540ad8e2445a68049705a): 8/21/2024
-- [ ] Google IT Support > [Coursera] Module 1 is completed. Started Module 2 (there are 6 modules total).
+- [ ] Google IT Support > [Coursera] Module 2 in progress(there are 6 modules total).
 - [ ] IBM SkillsBuild >  [Web Development Fundamentals](https://skills.yourlearning.ibm.com/activity/PLAN-8749C02A78EC?channelId=CNL_LCB_1616447372894)  : 8/30/2023 28% completed
 - [ ] Forage > [Software Engineering Lite](https://www.theforage.com/dashboard)   :9/2/2023 0/2 In progress. Changed the whiteboard format.
       
