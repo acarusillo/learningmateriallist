@@ -3,7 +3,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 
 ## Work-Related Project
 - [ ] Upwork > [Milestone 1 Due 9/8](https://www.upwork.com/nx/wm/workroom/30946262/overview): Completed the report 2/4. Remaining: report 3/4 and 4/4. 
-- [ ] Upwork > [Milestone 2 Due 9/15](https://www.upwork.com/nx/wm/workroom/30946262/overview): Created a backlog and plan
+- [ ] Upwork > [Milestone 2 Due 9/15](https://www.upwork.com/nx/wm/workroom/30946262/overview): Confirmed 2 people to participate in the survey.
 
 ## Web and Software Development
 - [ ] Verizon Skillforward > [Java Programming: Basic Skills](https://learning.edx.org/course/course-v1:Codio+java1.1+1T2024/block-v1:Codio+java1.1+1T2024+type@sequential+block@d7837e10fa4141f685583ca40d90509b/block-v1:Codio+java1.1+1T2024+type@vertical+block@9102ef25259540ad8e2445a68049705a): 8/21/2024
