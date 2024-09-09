@@ -2,7 +2,7 @@
 This is my list of study materials, which I refer to daily as my study checklist. These subjects cover a wide range, including college credit courses, career development programs, and various educational resources. When the course is completed, it will be relocated to the bottom of the list along with the completion date.
 
 ## Work-Related Project
-- [ ] Upwork > [Milestone 1 Due 9/8](https://www.upwork.com/nx/wm/workroom/30946262/overview): The report 3/4 is in progress. Remaining: report 3/4 and 4/4. 
+- [ ] Upwork > [Milestone 1 Due 9/8](https://www.upwork.com/nx/wm/workroom/30946262/overview): The report 3/4 is completed now. Remaining: report 4/4. 
 - [ ] Upwork > [Milestone 2 Due 9/15](https://www.upwork.com/nx/wm/workroom/30946262/overview): Confirmed 2 people to participate in the survey.
 
 ## Web and Software Development
@@ -23,7 +23,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 
 
 ## College Coursework
-- [ ] CS-255 System Analysis and Design: Week 1 assignment in progress.
+- [ ] CS-255 System Analysis and Design: Week 1 assignment is submitted.
 - [ ] CS-305 Software Security: Week 1 module is now complete.
 
 ## Completed
