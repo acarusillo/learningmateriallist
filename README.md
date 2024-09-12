@@ -2,7 +2,6 @@
 This is my list of study materials, which I refer to daily as my study checklist. These subjects cover a wide range, including college credit courses, career development programs, and various educational resources. When the course is completed, it will be relocated to the bottom of the list along with the completion date.
 
 ## Work-Related Project
-- [ ] Upwork > [Milestone 1 Due 9/8](https://www.upwork.com/nx/wm/workroom/30946262/overview): All the reports 1/4 through 4/4 are submitted.
 - [ ] Upwork > [Milestone 2 Due 9/15](https://www.upwork.com/nx/wm/workroom/30946262/overview): Confirmed 2 people to participate in the survey.
 
 ## Web and Software Development
@@ -46,3 +45,4 @@ This is my list of study materials, which I refer to daily as my study checklist
 - [ ] ENG-190 (Jan-Mar 2024)> Week 8 > Week 8 assignment: completed
 - [ ] MS 365 exam prep (Coursera) > 23%: Week 1/7 (Paused)
 - [ ] CS-250 (Jul-Aug 2024)> Week 8 > Course completed. Received A.
+- [ ] Upwork > [Milestone 1 Due 9/8](https://www.upwork.com/nx/wm/workroom/30946262/overview): All the reports 1/4 through 4/4 are submitted.
