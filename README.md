@@ -2,7 +2,7 @@
 This is my list of study materials, which I refer to daily as my study checklist. These subjects cover a wide range, including college credit courses, career development programs, and various educational resources. When the course is completed, it will be relocated to the bottom of the list along with the completion date.
 
 ## Work-Related Project
-- [ ] Upwork > [Milestone 2 Due 9/15](https://www.upwork.com/nx/wm/workroom/30946262/overview): Waiting for additional from the agency.
+- [ ] Upwork > [Milestone 2 Due 9/15](https://www.upwork.com/nx/wm/workroom/30946262/overview): Still waiting for additional from the agency. I will start working on the survey project once the agency provides documents.
 
 ## Web and Software Development
 - [ ] Verizon Skillforward > [Java Programming: Basic Skills](https://learning.edx.org/course/course-v1:Codio+java1.1+1T2024/block-v1:Codio+java1.1+1T2024+type@sequential+block@d7837e10fa4141f685583ca40d90509b/block-v1:Codio+java1.1+1T2024+type@vertical+block@9102ef25259540ad8e2445a68049705a): 8/21/2024
