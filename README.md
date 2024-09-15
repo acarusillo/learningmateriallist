@@ -2,7 +2,7 @@
 This is my list of study materials, which I refer to daily as my study checklist. These subjects cover a wide range, including college credit courses, career development programs, and various educational resources. When the course is completed, it will be relocated to the bottom of the list along with the completion date.
 
 ## Work-Related Project
-- [ ] Upwork > [Milestone 2 Due 9/15](https://www.upwork.com/nx/wm/workroom/30946262/overview): The documents for the participants are now available. Sent it to each participants.
+- [ ] Upwork > [Milestone 2 Due 9/15](https://www.upwork.com/nx/wm/workroom/30946262/overview): The documents for the participants are now available. Sent it to each participant.
 
 ## Web and Software Development
 - [ ] Verizon Skillforward > [Java Programming: Basic Skills](https://learning.edx.org/course/course-v1:Codio+java1.1+1T2024/block-v1:Codio+java1.1+1T2024+type@sequential+block@d7837e10fa4141f685583ca40d90509b/block-v1:Codio+java1.1+1T2024+type@vertical+block@9102ef25259540ad8e2445a68049705a): 8/21/2024
@@ -22,8 +22,8 @@ This is my list of study materials, which I refer to daily as my study checklist
 
 
 ## College Coursework
-- [ ] CS-255 System Analysis and Design: Week 1 assignment is submitted.
-- [ ] CS-305 Software Security: Week 1 module is now complete.
+- [ ] CS-255 System Analysis and Design: Week 2 assignment in progress.
+- [ ] CS-305 Software Security: Week 2 assignment in progress.
 
 ## Completed
 - [ ] MS AI-900 exam prep (Coursera) > [Coursera] Passed the AI-900 exam.
