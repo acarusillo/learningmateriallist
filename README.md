@@ -20,7 +20,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 
 ## College Coursework
 - [ ] CS-255 System Analysis and Design: Week 4 discussion completed.
-- [ ] CS-305 Software Security: 3-2 Journal in progress.
+- [ ] CS-305 Software Security: 3-2 Journal completed.
 
 ## Completed
 - [ ] MS AI-900 exam prep (Coursera) > [Coursera] Passed the AI-900 exam.
