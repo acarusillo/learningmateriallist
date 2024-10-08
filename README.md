@@ -19,7 +19,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 
 
 ## College Coursework
-- [ ] CS-255 System Analysis and Design: 4-2 assignment(completion should be tonight 10/6) & Project 1 in progress. 
+- [ ] CS-255 System Analysis and Design: 4-2 assignment completed. Project 1 is in progress. 
 - [ ] CS-305 Software Security: 5-1 coding assignment in progress.
 
 ## Completed
