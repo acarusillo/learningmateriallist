@@ -19,7 +19,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 
 
 ## College Coursework
-- [ ] CS-255 System Analysis and Design: Project 2 in progress. Discussion responses completed.
+- [ ] CS-255 System Analysis and Design: Project 2 is in progress. Discussion Week 8 is in progress. 8-2 Assignment is in progress.  
 
 
 ## Completed
