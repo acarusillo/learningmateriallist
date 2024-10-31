@@ -20,7 +20,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 
 
 ## College Coursework
-- [ ] CS-255 System Analysis and Design: Project 2 is completed. 8-2 Assignment is completed.  
+- [ ] CS-210 Programming Languages: Started.  
 
 
 ## Completed
