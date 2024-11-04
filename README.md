@@ -20,7 +20,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 
 
 ## College Coursework
-- [ ] CS-210 Programming Languages: zyBook in progress 
+- [ ] CS-210 Programming Languages: zyBook week 1 is completed
 
 
 ## Completed
