@@ -9,7 +9,7 @@ This is my list of study materials, which I refer to daily as my study checklist
       
 ## Career Certification
 - [ ] UCertify> [CompTIA Linux + ](https://cwct.ucertify.com/app/?func=get_course_list&show=courses)
-- [ ] edX> [Personal Finance - Indiana University ]
+- [ ] edX> [Personal Finance - Indiana University ] 1.2.2 Planning Dimension
       
 ## College Credits
 - [ ] CLEP >   [Microeconomics](https://learn.modernstates.org/d2l/le/content/6700/viewContent/8211/View) : 8/15/2024
@@ -20,7 +20,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 
 
 ## College Coursework
-- [ ] CS-210 Programming Languages: Project 1 completed.
+- [ ] CS-210 Programming Languages: Project 2 in progress.
 
 
 ## Completed
