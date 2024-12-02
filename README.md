@@ -20,7 +20,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 
 
 ## College Coursework
-- [ ] CS-210 Programming Languages: Project 2 completed.
+- [ ] CS-210 Programming Languages: Assignment 2 in progress.
 
 ## Completed
 - [ ] MS AI-900 exam prep (Coursera) > [Coursera] Passed the AI-900 exam.
