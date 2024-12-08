@@ -20,7 +20,7 @@ This is my list of study materials, which I refer to daily as my study checklist
 
 
 ## College Coursework
-- [ ] CS-210 Programming Languages: Assignment 2 in progress. zy-Book($ Lab) is in progress.
+- [ ] CS-210 Programming Languages: Assignment 2 in progress. zy-Book Lab is completed.
 
 ## Completed
 - [ ] MS AI-900 exam prep (Coursera) > [Coursera] Passed the AI-900 exam.
